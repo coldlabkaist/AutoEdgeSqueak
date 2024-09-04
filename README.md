@@ -1,5 +1,5 @@
 # AutoEdgeSqueak
-Contour Masking Tool for mouse videos
+Automatic Contour Masking Tool for mouse videos
 - for research/acadmic use only!!
 
 AutoEdgeSqueak is an open source tool automatically masks the white contour to each mouse of the videos.
